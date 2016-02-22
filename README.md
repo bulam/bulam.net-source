@@ -1,5 +1,5 @@
 # bulam.net-source
-Source code for bulam.net
+Source code for www.bulam.net, my personal website.
 
 #ToDo
 - Sanitize inputs in contact form
